@@ -1,5 +1,7 @@
 # Flash-accessible UDP and TCP network transports
 
+This project was migrated from https://code.google.com/p/flash-network on May 17, 2015.
+
 Traditionally, web browsers have limited access to the networking stack on the host computer. 
 This project aims at providing a simple JavaScript API to facilitate secure access to network 
 transports such as UDP, TCP and peer-to-peer connectivity to the web applications from within 
