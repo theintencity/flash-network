@@ -4,7 +4,7 @@
 > This project was migrated from https://code.google.com/p/flash-network on May 17, 2015.  
 > Members: *theintencity* (owner)  
 > Links: [Support](http://groups.google.com/group/myprojectguide)  
-> License: [GNU Lesser GPL](http://www.gnu.org/licenses/lgpl.html)
+> License: [GNU Lesser GPL](http://www.gnu.org/licenses/lgpl.html)  
 > Others: starred by 10 users  
 
 Traditionally, web browsers have limited access to the networking stack on the host computer. 
